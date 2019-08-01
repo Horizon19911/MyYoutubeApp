@@ -1,4 +1,4 @@
-const KEY= 'your api key';
+const KEY= 'your api key -';
 
 module.exports={
     KEY
