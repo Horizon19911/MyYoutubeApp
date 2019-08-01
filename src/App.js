@@ -21,6 +21,7 @@ export default class App extends Component {
                 maxResults:5,
                 key:"AIzaSyCUTV8JlbS_Wg6sDtmYgLWs1EPwcdsnK2s",
                 q:term
+            }
             
         });
         this.setState({videos:response.data.items, selectedVideo:response.data.items[0]});
