@@ -19,7 +19,7 @@ export default class App extends Component {
             params:{
                 part:'snippet',
                 maxResults:5,
-                key:"AIzaSyCUTV8JlbS_Wg6sDtmYgLWs1EPwcdsnK2s",
+                key:"",
                 q:term
             }
             
